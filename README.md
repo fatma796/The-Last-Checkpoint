@@ -26,7 +26,7 @@ Throughout the bootcamp, I have gained valuable skills, including:
 
 This bootcamp has been a transformative experience, pushing me out of my comfort zone and helping me develop a strong technical foundation. My ability to learn quickly, adapt, and apply new concepts has been crucial in this journey. As I move forward, I aim to refine my skills further and seek opportunities where I can contribute meaningfully while continuing to grow as a developer.
 
-I am excited to take on new challenges, whether in a professional setting or through personal projects like my e-commerce platform "Hanami Skin." I look forward to leveraging my combined expertise in design and development to create seamless and visually appealing digital experiences.
+I am excited to take on new challenges, whether in a professional setting or through personal projects. I look forward to leveraging my combined expertise in design and development to create seamless and visually appealing digital experiences.
 
 --- Next Steps :
 
