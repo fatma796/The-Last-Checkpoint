@@ -2,7 +2,7 @@
 
 --- My Readiness for the Next Step :
 
-As I complete this software development bootcamp, I feel more prepared and confident in taking the next step in my career. My background in graphic design and UX/UI design, combined with my new technical skills in full-stack development, allows me to bridge the gap between design and development. I am eager to apply this knowledge in real-world projects, whether through employment, freelancing, or personal ventures like my e-commerce platform.
+As I complete this software development bootcamp, I feel more prepared and confident in taking the next step in my career. My background in graphic design and UX/UI design, combined with my new technical skills in full-stack development, allows me to bridge the gap between design and development. I am eager to apply this knowledge in real-world projects, whether through employment, freelancing, or personal ventures.
 
 --- Skills Gained During the Bootcamp :
 
